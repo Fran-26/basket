@@ -1,4 +1,10 @@
-#sensor_1 {
+@font-face{
+ font-family:'digital-clock-font';
+ src: url('https://github.com/Fran-26/basket/blob/master/DS-DIGIB.TTF');
+}
+
+#puntaje {
 	top: 350px;
 	left: 915px;
+	font-family:'digital-clock-font'
 }
