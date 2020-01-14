@@ -4,7 +4,8 @@
 }
 
 #puntaje {
-	top: 350px;
-	left: 915px;
-	font-family:'digital-clock-font'
+	font-family:'digital-clock-font';
+	text-align: center;
+	font-size: 50vw;
+	color: red;
 }
