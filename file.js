@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	setInterval (update, 3000)});
+	setInterval (update, 1000)});
 
 function update (){
 	var reqURL = 'https://io.adafruit.com/api/v2/veintiseis/feeds/score?x-aio-key=aio_cRxP96fQyvHmcrfCQSy5MFZ1tDgn'
